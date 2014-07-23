@@ -1,0 +1,3 @@
+# usr/bin/bash
+
+adb install -r bingooo*.apk && adb shell am start com.icicleWorks.bingooo/com.icicleWorks.bingooo.MainActivity

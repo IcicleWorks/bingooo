@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bingooo.iml" filepath="$PROJECT_DIR$/Bingooo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bingooo/bingooo.iml" filepath="$PROJECT_DIR$/bingooo/bingooo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook/facebook.iml" filepath="$PROJECT_DIR$/facebook/facebook.iml" />
+    </modules>
+  </component>
+</project>
+

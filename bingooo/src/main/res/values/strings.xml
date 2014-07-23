@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bingooo</string>
+    <string name="title_section1">Mapa</string>
+    <string name="title_section2">Obľúbené</string>
+    <string name="title_section3">Koniec</string>
+    <string name="title_section4">O aplikácii</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyAiNdp-GMnnRBM-hfNl9tgtqqrMrFunZIY</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_podnik_activity2">Zlava</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="contact">Kontakt:</string>
+    <string name="app_id">1433306670264977</string>
+    <string name="title_activity_login">Login</string>
+
+</resources>
